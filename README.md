@@ -25,7 +25,7 @@
 
 <h3 align="left">Read my writings:</h3>
 <p align="left">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/n-stebbings"><img src="https://github-readme-medium-recent-article.vercel.app/medium/n-stebbings" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings" alt="Recent Article 0" />
 <a href="https://medium.com/@n-stebbings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@n-stebbings" height="30" width="40" /></a>
 </p>
 
