@@ -23,11 +23,11 @@
 
 - ⚡ Fun fact **I do musical comedy! See if you can find it hidden in my portfolio ;)**
 
-<h3 align="left">Read my writings:</h3>
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings/0" alt="Recent Article 0"> 
-
-<h3 align="left">I also use:</h3>
+<h4 align="left">I also use:</h4>
 <p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h4 align="left">Read my writings:</h4>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-stebbings/0" alt="Recent Article 0"> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nick-stebbings&show_icons=true&locale=en" alt="nick-stebbings" /></p>
 
