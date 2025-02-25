@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Zero Knowledge Proofs**
 
-- 👯 I’m looking to collaborate on **interesting back-end problems**
+- 👯 I’m looking to collaborate on **interesting engineering problems**
 
 - 🤝 I’m looking for help with **integrating IPFS with Planitt**
 
