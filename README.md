@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **N DOT STEBBINGS @ GMAIL DOT COM**
 
-- 📄 Know about my experiences from my [resume](https://nickstebbings.com/assets/resume.b20eb635.pdf)
+- 📄 Know about my experiences from my [resume](https://wonderful-morse-84000a.netlify.app/assets/resume.b20eb635.pdf)
 
 - ⚡ Fun fact **I do musical comedy! See if you can find it hidden in my portfolio ;)**
 
